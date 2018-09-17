@@ -1,3 +1,4 @@
+#This script is minified. Check emrio.fr/projects for the source code
 import kandinsky as ky, math
 HEIGHT=320;WIDTH=222
 class Options:
